@@ -1,0 +1,40 @@
+● (0,5p) Crear un Terrain con montañas, con un material que utilice varias texturas y
+que tenga arboles y cesped.
+
+● (0,25p) Que todas las entradas nuevas de Input (crear al menos 2) deberán estar
+mapeadas con Actions/Axis en vez de por eventos directos de
+teclado/mouse.
+
+● (0,25p) Usar en el Level Blueprint para lanzar/testear algunas de las
+funcionalidades creadas
+
+
+● (1p) Crear al menos 2 animaciones diferentes para los elementos de HUD
+(ninguna puede ser desplazamiento).
+
+● (0,5p) Crear y lanzar UN solo clip sonido que:
+○ Que se lance desde una animación.
+○ Que cuando se lance no siempre suene el mismo audio.
+○ Que modificar su pitch de manera aleatoria entre dos valores.
+
+● (0,5p) Que alguna de las animaciones del player lance un evento dentro del
+player.
+
+● (1p) Cambiar el animation blueprint del Third Person del personaje para añadir 1
+de las siguientes opciones:
+○ Disparar (solo a nivel de animación no hace falta disparar nada)
+○ Una animación de impacto que tras ejecutarse vuelva a Idle.
+
+● (1p) Crear una secuencia (todas las acciones han de estar implementadas dentro
+de la secuencia) que simule una discoteca y contenga al menos 3 de estas acciones:
+○ Que encienda y apague luces de diferentes tipos y colores.
+○ Que lance un evento que le quite vida al player en algún momento.
+○ Se haga de noche durante la secuencia y al terminar se vuelva a hacer de
+día.
+○ Que aplique una animación a un personaje.
+
+
+Gerard Torras Moliné
+
+enlace de git: https://github.com/getomoworks/GerardTorrasMoline_ResitExam.git
+
