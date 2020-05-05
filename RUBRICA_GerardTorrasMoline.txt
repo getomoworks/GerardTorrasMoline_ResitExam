@@ -33,6 +33,10 @@ de la secuencia) que simule una discoteca y contenga al menos 3 de estas accione
 día.
 ○ Que aplique una animación a un personaje.
 
+He olvidado añadir en el txt el retarget de la Capoeira, lo he hecho pero por motivos 
+que desconozco no aparece en el set  de animaciones del esqueleto que he usado
+
+Para comprobar las implementaciones se han usado las teclas X, C, Left Mouse Button
 
 Gerard Torras Moliné
 
